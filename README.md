@@ -1,5 +1,6 @@
 # 20104024_Dani-Azka-Faz_Pemrograman2
 ## Pratikum Pemrograman 2
+
 <hr>
 
 ## Modul 3 : PENGENALAN PEMROGRAMAN BERORIENTASI OBJEK
@@ -37,7 +38,7 @@ Untuk mengakses suatu _objek_ atau anggota nya harus membuat intance dari _class
    }
 }
 ```
-## _______________________________________________________________
+<hr>
 
 ## Pratikum
 Soal : 
