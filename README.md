@@ -1,8 +1,9 @@
 # 20104024_Dani-Azka-Faz_Pemrograman2
 ## Pratikum Pemrograman 2
 
+<hr>
+
 # Modul 4 : DASAR PEMROGRAMAN BERORIENTASI OBJEK
-##
  
 ## Dasar Teori
 * Information Hiding
