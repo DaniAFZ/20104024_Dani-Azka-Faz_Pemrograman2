@@ -13,4 +13,4 @@
 8. [modul 7 : OVERLOADING DAN OVERRIDING](https://github.com/DaniAFZ/20104024_Dani-Azka-Faz_Pemrograman2/tree/Modul7)
 9. [modul 8 : POLIMORFISME](https://github.com/DaniAFZ/20104024_Dani-Azka-Faz_Pemrograman2/tree/Modul8)
 10. [modul 9 : EXCEPTION](https://github.com/DaniAFZ/20104024_Dani-Azka-Faz_Pemrograman2/tree/Modul9) 
-11. [project akhir :]()
+11. [project akhir : TicTacToe](https://github.com/DaniAFZ/20104024_Dani-Azka-Faz_Pemrograman2/tree/ProjectAkhir)
