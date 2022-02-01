@@ -12,6 +12,8 @@
 # TicTacToe ❌⭕🔥
 <hr>
 
+# Link Presentasi : https://drive.google.com/file/d/1GkO6SHeWWhk7rJWGmNLQSlnAwk8GDknj/view
+
 # SINOPSIS GAME 🎬
 ❌⭕
 Seorang player akan bermain TicTacToe bersama player lainnya. Dia memiliki kesempatan berfikir dan memilih meletakkan huruf X atau O untuk memenangkan permainan. Kunci utamanya untuk memenangkan permainan ada di huruf X dan O dengan cara menempatkan 3 simbol ( X / O) dalam satu deret.
